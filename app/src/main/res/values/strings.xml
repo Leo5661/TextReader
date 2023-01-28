@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TextReader</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="txt_please_select_a_pdf_file">Please select a PDF file.</string>
+    <string name="dic_txt_title_extracted_text">Extracted text</string>
+    <string name="title_txt_extracted_text">Extracted text</string>
+    <string name="btn_dic_txt_open_pdf_button">Open PDF button</string>
+    <string name="txt_open_pdf">Open PDF</string>
+    <string name="btn_dic_txt_read_text_button">Read text button</string>
+    <string name="txt_read">Read</string>
+    <string name="Et_dic_txt_text_from_pdf">Text from pdf</string>
+</resources>
